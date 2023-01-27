@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZHsTBJJLQoB/tVa8TI4SnHRvZYdA1TyQIMtStKIsebU=",
+  "Source": "HttpTrigger",
+  "BasePath": "_content/HttpTrigger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
